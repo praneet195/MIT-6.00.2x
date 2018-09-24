@@ -1,1 +1,4 @@
-All solutions added to folder 1
+All solutions for codes have been added.
+MCQ solutions havent been uploaded.
+97% 
+Certificate uploaded
