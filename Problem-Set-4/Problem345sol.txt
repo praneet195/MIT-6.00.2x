@@ -1,0 +1,6 @@
+3) 0.005
+4) a)	for year in INTERVAL_1:
+    	y.append(numpy.mean(raw_data.get_yearly_temp('BOSTON', year)))
+   b)	0.0085
+5) a)	choosing a specific day correct
+   b)	calculating the yearly average correct
